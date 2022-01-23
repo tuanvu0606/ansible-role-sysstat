@@ -1,0 +1,4 @@
+---
+# defaults file for sysstat
+
+package_name: sysstat

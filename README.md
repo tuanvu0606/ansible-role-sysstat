@@ -1,2 +1,2 @@
 # ansible-role-sysstat
-ansible role to install sysstat
+ansible role to install sysstat for running iostat

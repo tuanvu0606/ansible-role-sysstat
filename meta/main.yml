@@ -1,0 +1,24 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Tuan Vu
+  company: 
+  description: Install latest mlocate and update locate database on both CentOS and Debian-like systems
+  license: MIT
+  min_ansible_version: 1.9.6
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - precise
+        - trusty
+        - xenial
+    - name: Debian
+      versions:
+        - wheezy
+        - jessie
+  galaxy_tags:
+    - system
